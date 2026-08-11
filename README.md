@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Teresa-Saloni/LeetCode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Teresa-Saloni/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/Teresa-Saloni/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Teresa-Saloni/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Teresa-Saloni/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/Teresa-Saloni/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Teresa-Saloni/LeetCode/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/Teresa-Saloni/LeetCode/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
