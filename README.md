@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Teresa-Saloni/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
@@ -17,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Teresa-Saloni/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
