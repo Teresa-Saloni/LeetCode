@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Teresa-Saloni/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Teresa-Saloni/LeetCode/tree/master/0091-decode-ways) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Teresa-Saloni/LeetCode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/Teresa-Saloni/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0213-house-robber-ii) |
@@ -32,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Teresa-Saloni/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
