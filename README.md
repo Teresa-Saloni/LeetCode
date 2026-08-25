@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Teresa-Saloni/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0518-coin-change-ii) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Teresa-Saloni/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
