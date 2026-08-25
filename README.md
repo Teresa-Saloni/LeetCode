@@ -66,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Teresa-Saloni/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Teresa-Saloni/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Teresa-Saloni/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Teresa-Saloni/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
