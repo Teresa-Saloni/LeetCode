@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Teresa-Saloni/LeetCode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Teresa-Saloni/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Teresa-Saloni/LeetCode/tree/master/0322-coin-change) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Teresa-Saloni/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Teresa-Saloni/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Teresa-Saloni/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
