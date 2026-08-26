@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0213-house-robber-ii) |
 | [0274-h-index](https://github.com/Teresa-Saloni/LeetCode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Teresa-Saloni/LeetCode/tree/master/0322-coin-change) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0518-coin-change-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Teresa-Saloni/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Teresa-Saloni/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0740-delete-and-earn](https://github.com/Teresa-Saloni/LeetCode/tree/master/0740-delete-and-earn) |
 ## Breadth-First Search
 |  |
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Teresa-Saloni/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
