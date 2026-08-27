@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Teresa-Saloni/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Teresa-Saloni/LeetCode/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/Teresa-Saloni/LeetCode/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Teresa-Saloni/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Teresa-Saloni/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0740-delete-and-earn](https://github.com/Teresa-Saloni/LeetCode/tree/master/0740-delete-and-earn) |
