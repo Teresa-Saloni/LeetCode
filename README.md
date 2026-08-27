@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Teresa-Saloni/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Teresa-Saloni/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Teresa-Saloni/LeetCode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Teresa-Saloni/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Teresa-Saloni/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Teresa-Saloni/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Teresa-Saloni/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Teresa-Saloni/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Teresa-Saloni/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Teresa-Saloni/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Teresa-Saloni/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Teresa-Saloni/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0740-delete-and-earn](https://github.com/Teresa-Saloni/LeetCode/tree/master/0740-delete-and-earn) |
@@ -211,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Teresa-Saloni/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Teresa-Saloni/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/Teresa-Saloni/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Teresa-Saloni/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
