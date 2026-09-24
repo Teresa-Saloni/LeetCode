@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Teresa-Saloni/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Teresa-Saloni/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Teresa-Saloni/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Teresa-Saloni/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Teresa-Saloni/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Teresa-Saloni/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Teresa-Saloni/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Teresa-Saloni/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Teresa-Saloni/LeetCode/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Teresa-Saloni/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Teresa-Saloni/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Teresa-Saloni/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Teresa-Saloni/LeetCode/tree/master/0169-majority-element) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Teresa-Saloni/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Teresa-Saloni/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Teresa-Saloni/LeetCode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Teresa-Saloni/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Teresa-Saloni/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Teresa-Saloni/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Teresa-Saloni/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -420,4 +423,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Teresa-Saloni/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Teresa-Saloni/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Teresa-Saloni/LeetCode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
