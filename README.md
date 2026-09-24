@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Teresa-Saloni/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Teresa-Saloni/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Teresa-Saloni/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Teresa-Saloni/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Teresa-Saloni/LeetCode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0518-coin-change-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Teresa-Saloni/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Teresa-Saloni/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Teresa-Saloni/LeetCode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/Teresa-Saloni/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Teresa-Saloni/LeetCode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Teresa-Saloni/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Teresa-Saloni/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Teresa-Saloni/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Teresa-Saloni/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Teresa-Saloni/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Teresa-Saloni/LeetCode/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Teresa-Saloni/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
