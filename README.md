@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Teresa-Saloni/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Teresa-Saloni/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0855-exam-room](https://github.com/Teresa-Saloni/LeetCode/tree/master/0855-exam-room) |
 ## Randomized
 |  |
 | ------- |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Teresa-Saloni/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Teresa-Saloni/LeetCode/tree/master/0502-ipo) |
+| [0855-exam-room](https://github.com/Teresa-Saloni/LeetCode/tree/master/0855-exam-room) |
 ## Quickselect
 |  |
 | ------- |
@@ -520,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Teresa-Saloni/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Ordered Set
+|  |
+| ------- |
+| [0855-exam-room](https://github.com/Teresa-Saloni/LeetCode/tree/master/0855-exam-room) |
 <!---LeetCode Topics End-->
