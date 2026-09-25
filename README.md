@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Teresa-Saloni/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Teresa-Saloni/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Teresa-Saloni/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Teresa-Saloni/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Lifting
 |  |
