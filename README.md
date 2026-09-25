@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Teresa-Saloni/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Teresa-Saloni/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Teresa-Saloni/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Teresa-Saloni/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Teresa-Saloni/LeetCode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Teresa-Saloni/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Teresa-Saloni/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Teresa-Saloni/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Teresa-Saloni/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Teresa-Saloni/LeetCode/tree/master/0222-count-complete-tree-nodes) |
