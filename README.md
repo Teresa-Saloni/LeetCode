@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Teresa-Saloni/LeetCode/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Teresa-Saloni/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Teresa-Saloni/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0427-construct-quad-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Teresa-Saloni/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/Teresa-Saloni/LeetCode/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/Teresa-Saloni/LeetCode/tree/master/0518-coin-change-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Teresa-Saloni/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Teresa-Saloni/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Teresa-Saloni/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Teresa-Saloni/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Teresa-Saloni/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/Teresa-Saloni/LeetCode/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/Teresa-Saloni/LeetCode/tree/master/0733-flood-fill) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Teresa-Saloni/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Teresa-Saloni/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Teresa-Saloni/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
